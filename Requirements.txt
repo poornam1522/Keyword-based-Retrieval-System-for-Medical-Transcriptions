@@ -1,0 +1,4 @@
+pandas
+numpy
+rank_bm25
+streamlit
